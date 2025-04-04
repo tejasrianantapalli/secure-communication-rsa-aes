@@ -102,18 +102,7 @@ Public-Key Infrastructure
 📜 License
 This project is open-source and available under the MIT License.
 
-👩‍💻 Author
-Tejasri Anantapalli – GitHub Profile
 
-yaml
-Copy
-Edit
-
----
-
-Once you’ve pasted and saved this:
-
-### ➕ Step to Upload to GitHub
 
 If you already connected your GitHub repo:
 
