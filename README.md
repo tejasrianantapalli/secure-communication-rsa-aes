@@ -104,9 +104,3 @@ This project is open-source and available under the MIT License.
 
 
 
-If you already connected your GitHub repo:
-
-```bash
-git add README.md
-git commit -m "Add project documentation"
-git push
